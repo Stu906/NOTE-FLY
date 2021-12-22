@@ -1,0 +1,223 @@
+body{
+    background-image: url("background1.png");
+    background-size: cover;
+}
+
+.head_hr{
+    width: 350px;
+}
+
+.note{
+    float: left;
+    height: 300px;
+    width: 250px;
+    background-color: #f8ff00;
+    margin: 43px;
+    border-width: 15px;
+}
+
+.note_head{
+    text-align: center;
+}
+
+.edit_button{
+    float:right;
+    background-color: transparent;
+}
+
+.delete_button{
+    float:right;
+    background-color: transparent;
+}
+
+#heading{
+    color: wheat;
+}
+
+
+
+.style_button{
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+    float: right;
+    margin-left: 5px;
+}
+
+.font_button{
+    width: 65px;
+    height: 40px;
+    font-size: 30px;
+    float: right;
+    margin-left: 5px;
+}
+
+.heading_input{
+    width: 100%;
+    height: 35px;
+    text-align: center;
+    font-size: 22px;
+    color: black;
+}
+
+#note1_div{
+    width: 45%;
+    height: 90%;
+    margin-top: 40px;
+    background-color: tomato;
+    border-radius: 25px;
+    border: 5px solid white;
+    padding: 10px;
+}
+
+#note1_head{
+    background-color: chartreuse;
+    width: 90%;
+    height: 55px;
+    border: 10px solid chocolate;
+    border-style: ridge;
+    
+}
+
+#textarea1{
+    resize: none;
+    height: 80%;
+    width: 90%;
+    font-size: 18px;
+}
+
+#note1_heading{
+    resize: none;
+    height: 100%;
+    overflow: hidden;
+}
+
+
+#note2_div{
+    width: 45%;
+    height: 90%;
+    margin-top: 40px;
+    background-color: tomato;
+    border-radius: 25px;
+    border: 5px solid white;
+    padding: 10px;
+}
+
+#note2_head{
+    background-color: chartreuse;
+    width: 90%;
+    height: 55px;
+    border: 10px solid chocolate;
+    border-style: ridge;
+    
+}
+
+#textarea2{
+    resize: none;
+    height: 80%;
+    width: 90%;
+    font-size: 18px;
+}
+
+#note2_heading{
+    resize: none;
+    height: 100%;
+    overflow: hidden;
+}
+
+
+#note3_div{
+    width: 45%;
+    height: 90%;
+    margin-top: 40px;
+    background-color: tomato;
+    border-radius: 25px;
+    border: 5px solid white;
+    padding: 10px;
+}
+
+#note3_head{
+    background-color: chartreuse;
+    width: 90%;
+    height: 55px;
+    border: 10px solid chocolate;
+    border-style: ridge;
+    
+}
+
+#textarea3{
+    resize: none;
+    height: 80%;
+    width: 90%;
+    font-size: 18px;
+}
+
+#note3_heading{
+    resize: none;
+    height: 100%;
+    overflow: hidden;
+}
+
+#note4_div{
+    width: 45%;
+    height: 90%;
+    margin-top: 40px;
+    background-color: tomato;
+    border-radius: 25px;
+    border: 5px solid white;
+    padding: 10px;
+}
+
+#note4_head{
+    background-color: chartreuse;
+    width: 90%;
+    height: 55px;
+    border: 10px solid chocolate;
+    border-style: ridge;
+    
+}
+
+#textarea4{
+    resize: none;
+    height: 80%;
+    width: 90%;
+    font-size: 18px;
+}
+
+#note4_heading{
+    resize: none;
+    height: 100%;
+    overflow: hidden;
+}
+
+#note5_div{
+    width: 45%;
+    height: 90%;
+    margin-top: 40px;
+    background-color: tomato;
+    border-radius: 25px;
+    border: 5px solid white;
+    padding: 10px;
+}
+
+#note5_head{
+    background-color: chartreuse;
+    width: 90%;
+    height: 55px;
+    border: 10px solid chocolate;
+    border-style: ridge;
+    
+}
+
+#textarea5{
+    resize: none;
+    height: 80%;
+    width: 90%;
+    font-size: 18px;
+}
+
+#note5_heading{
+    resize: none;
+    height: 100%;
+    overflow: hidden;
+}
